@@ -1,0 +1,5 @@
+{
+  "name": "3D Obby Challenge",
+  "description": "A 5-level 3D platformer obby. Jump between platforms to reach the golden cube at the top. Fall and you start over!",
+  "requestFramePermissions": []
+}
