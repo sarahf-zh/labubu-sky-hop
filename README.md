@@ -76,7 +76,7 @@ Instead of loading large MP3 files, the game generates music in real-time using 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/labubu-sky-hop.git](https://github.com/YOUR_USERNAME/labubu-sky-hop.git)
+    git clone [https://github.com/sarahf-zh/labubu-sky-hop.git](https://github.com/sarahf-zh/labubu-sky-hop.git)
     cd labubu-sky-hop
     ```
 
