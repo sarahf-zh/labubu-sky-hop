@@ -30,19 +30,19 @@ The goal is simple: Jump from platform to platform without falling into the void
 
 ### 1. The Starting Line
 *Navigate through a vibrant 3D world with trees, clouds, and checkerboard platforms.*
-![Start Screen](labubu-hop-screen1.png)
+![Start Screen](screenshots/labubu-hop-screen1.png)
 
 ### 2. High Altitude Platforming
 *Precise jumping mechanics allow for traversing wide gaps and vertical climbs.*
-![High Altitude](labubu-hop-screen2.png)
+![High Altitude](screenshots/labubu-hop-screen2.png)
 
 ### 3. Ghost Training Mode
 *Enable "Training Mode" to see a holographic guide that shows you exactly where to move and jump.*
-![Ghost Mode](labubu-hop-screen3.png)
+![Ghost Mode](screenshots/labubu-hop-screen3.png)
 
 ### 4. Smart Tips
 *The game detects why you failed and offers context-aware tips to help you improve.*
-![Game Tips](labubu-hop-screen4.png)
+![Game Tips](screenshots/labubu-hop-screen4.png)
 
 ---
 
